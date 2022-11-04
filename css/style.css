@@ -14,9 +14,14 @@ h1,h2,h3,h4,h5{
     font-weight: 900;
 }
 
+.title{
+    visibility: hidden;
+}
+
 .wrapper{
     width: 100%;
     margin: 0 auto;
+    visibility: hidden;
 }
 
 main{
@@ -25,6 +30,7 @@ main{
 }
 
 .container{
+    visibility: hidden;
     max-width: 490px;
     min-width: 280px;
     width: 100%;
