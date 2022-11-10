@@ -1,7 +1,6 @@
 
 window.sr = ScrollReveal({ reset:true });
 
-sr.reveal('.wrapper',{duration: 1500})
 
 sr.reveal('.container', {
     rotate: { x:0, y:80, z:0 },
